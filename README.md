@@ -1,5 +1,5 @@
-## KDD PROJECT ##
-### Topic : Heart Disease Prediction ###
+## Heart Disease Prediction ##
+### KDD PROJECT ###
 
 
 Project from Spring 2023 CS 513 Knowledge Discovery and Data Mining class of Stevens Institute of Technology
